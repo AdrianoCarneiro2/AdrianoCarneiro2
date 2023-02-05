@@ -11,12 +11,17 @@
 
 # Skills
 
+### Languages
+<img src="https://img.shields.io/badge/-Typescript-blue" />
+
 
 ### Front-End Development
-
+<img src="https://img.shields.io/badge/-FLUTTER-blue" />
 
 
 ### Backend Development
+<img src="https://img.shields.io/badge/-.NET-purple" />
+
 <!--
 **AdrianoCarneiro2/AdrianoCarneiro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
