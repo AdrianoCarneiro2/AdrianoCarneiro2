@@ -4,10 +4,6 @@
 
 🎓 I'm Adriano, a Full Stack Developer but right now i'm more focused in mobile development with flutter.
 
-📚 I also love reading books about personal development, financial literacy and of course programming books. Also i like to ear some podcasts.
-
-✈️ I love traveling. All the year i like to do a lot of travels to different countries to know more about the cultures from other countries.
-
 
 # Skills
 
