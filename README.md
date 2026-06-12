@@ -1,34 +1,46 @@
-# Hi there 👋
+# Hi, I'm Adriano Carneiro 👋
 
-# About Me
+Senior Full Stack Developer with 12 years of experience building web and mobile applications.
 
-🎓 I'm Adriano, a Full Stack Developer but right now i'm more focused in mobile development with flutter.
+Throughout my career, I have worked across backend, frontend, and mobile development while also leading teams and collaborating with stakeholders to deliver reliable and scalable solutions.
 
+## 🚀 Tech Stack
 
-# Skills
+### Backend
 
-### Languages
-<img src="https://img.shields.io/badge/-Typescript-blue" />
+* TypeScript
+* NestJS
+* .NET / C#
+* VB.NET
+* PHP
+* Laravel
 
+### Mobile Development
 
-### Front-End Development
-<img src="https://img.shields.io/badge/-FLUTTER-blue" />
+* Flutter
+* Android
+* Ionic
 
+### Databases
 
-### Backend Development
-<img src="https://img.shields.io/badge/-.NET-purple" />
+* SQL
+* Relational Databases
 
-<!--
-**AdrianoCarneiro2/AdrianoCarneiro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Professional Experience
 
-Here are some ideas to get you started:
+* Team Leadership
+* Stakeholder Collaboration
+* Project Coordination
+* Communication and Cross-functional Teamwork
+* Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+
+* Software Architecture
+* Scalable Applications
+* Clean Code and Best Practices
+* Mobile Development
+
+📍 Portugal
+
+🤝 Open to collaborations, consulting opportunities, and exciting new projects.
